@@ -1,16 +1,25 @@
-### Hi there 👋
+  Seja bem-vindo! Eu sou KrishnaVA95 👋
 
-<!--
-**KrishnaVA95/KrishnaVA95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estou trabalhando com pequenos projetos pessoais e desenvolvendo meu portfólio
+- 🌱 Atualmente ando aprofundando meu conhecimento em JavaScript
+- 📫 Entre  em contato comigo por; krishnavarela.a@gmail.com 
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/KrishnaVA95">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishnaVA95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVA95&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Krishna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Krishna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Krishna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href = "https://br.pinterest.com/krishnavarelaa/_saved/" > <img src="https://aleen42.github.io/badges/src/pinterest.svg">
+  <a href = "mailto:krishnavarela.a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/KrishnaVA95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
