@@ -6,7 +6,7 @@
 
 - 🔭 Hoje estou trabalhando com pequenos projetos pessoais e desenvolvendo meu portfólio
 - 🌱 Atualmente ando aprofundando meu conhecimento em JavaScript
-- 📫 Entre  em contato comigo pelo email; krishnavarela.a@gmail.com 
+- 📫 Entre  em contato pelo email; krishnavarela.a@gmail.com 
 - 😄 Pronouns: ele/dele
  </div>
     
