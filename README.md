@@ -21,5 +21,5 @@
 <div>
   <a href = "mailto:krishnavarela.a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/KrishnaVA95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a target="_blank" href = "https://br.pinterest.com/krishnavarelaa/_saved/" > <img src="https://aleen42.github.io/badges/src/pinterest.svg">
+  <a target="blank" href = "https://br.pinterest.com/krishnavarelaa/_saved/" > <img src="https://aleen42.github.io/badges/src/pinterest.svg">
 </div>
