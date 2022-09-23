@@ -4,9 +4,9 @@
     
   <div>
 
-- 🔭 Hoje estou trabalhando com pequenos projetos pessoais e desenvolvendo meu portfólio
+- 🔭 Atualmente estou estudando desenvolvimento web full stack,  Kenzie Academy Brasil
 - 🌱 Atualmente ando aprofundando meu conhecimento em JavaScript
-- 📫 Entre  em contato pelo email; krishnavarela.a@gmail.com 
+- 📫 Contato; email: krishnavarela.a@gmail.com 
  </div>
     
 <div>
