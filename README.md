@@ -4,7 +4,7 @@
     
   <div>
 
-- 🔭 Atualmente estou estudando desenvolvimento web full stack,  Kenzie Academy Brasil
+- 🔭 Hoje estou estudando desenvolvimento web full stack,  Kenzie Academy Brasil
 - 🌱 Atualmente ando aprofundando meu conhecimento em JavaScript
 - 📫 Contato; email: krishnavarela.a@gmail.com 
  </div>
