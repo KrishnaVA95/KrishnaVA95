@@ -6,7 +6,7 @@
   <div>
 
 - 🔭 Hoje estou estudando desenvolvimento web full stack,  Kenzie Academy Brasil
-- 🌱 Atualmente ando aprofundando meu conhecimento em React e iniciando os estudos em Node.js
+- 🌱 Atualmente ando aprofundando meu conhecimento em Node.js e iniciando os estudos em Python
 - 📫 Contato; email: krishnavarela.a@gmail.com 
  </div>
     
