@@ -7,7 +7,10 @@
 
 - 🔭 Hoje estou estudando desenvolvimento web full stack,  Kenzie Academy Brasil
 - 🌱 Atualmente ando aprofundando meu conhecimento em next.js e iniciando os estudos em Python
-- 📫 Contato; email: krishnavarela.a@gmail.com 
+- 📫 Contato; email:
+```
+krishnavarela.a@gmail.com 
+```
  </div>
     
 <div>
@@ -18,8 +21,9 @@
   
   </div>
 <div style="display: inline_block"><br>
+
   <img align="center" alt="Krishna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Krishna-Next" height="30" width="40" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg">
+  <img align="center" alt="Krishna-Next" height="30" width="60" color="#fff" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg">
   <img align="center" alt="Krishna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Krishna-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Krishna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
