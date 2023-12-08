@@ -22,7 +22,7 @@ krishnavarela.a@gmail.com 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Krishna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Krishna-Next" height="30" width="60" color="#fff" src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg">
+  <img align="center" alt="Krishna-Next" height="30" width="40" color="#fff" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Next.js-900x0.png">
   <img align="center" alt="Krishna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Krishna-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Krishna-NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
