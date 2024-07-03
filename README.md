@@ -18,7 +18,7 @@ krishnavarela.a@gmail.com 
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="CAP" height="30" width="60" src="https://cap.cloud.sap/docs/assets/logos/cap.svg">
+  <img align="center" alt="CAP" height="30" width="30" src="https://cap.cloud.sap/docs/assets/logos/cap.svg">
   <img align="center" alt="Krishna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Krishna-Next" height="30" width="40" color="#fff" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Next.js-900x0.png">
   <img align="center" alt="Krishna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
