@@ -18,7 +18,7 @@ krishnavarela.a@gmail.com 
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Krishna-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img align="center" alt="Krishna-Node" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="CAP" height="30" width="30" src="https://cap.cloud.sap/docs/assets/logos/cap.svg">
   <img align="center" alt="Krishna-NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
   <img align="center" alt="Krishna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
