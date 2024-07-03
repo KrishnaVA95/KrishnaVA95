@@ -18,12 +18,12 @@ krishnavarela.a@gmail.com 
   
   </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Krishna-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="CAP" height="30" width="30" src="https://cap.cloud.sap/docs/assets/logos/cap.svg">
+  <img align="center" alt="Krishna-NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
   <img align="center" alt="Krishna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Krishna-Next" height="30" width="40" color="#fff" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Next.js-900x0.png">
   <img align="center" alt="Krishna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Krishna-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="Krishna-NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
   <img align="center" alt="Krishna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Krishna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Krishna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
