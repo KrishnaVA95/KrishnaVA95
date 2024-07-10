@@ -22,6 +22,7 @@ krishnavarela.a@gmail.com 
   <img align="center" alt="CAP" height="30" width="30" src="https://cap.cloud.sap/docs/assets/logos/cap.svg">
   <img align="center" alt="Krishna-NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
   <img align="center" alt="express" height="30" width="30" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000">
+<!--   <img align="center" alt="SAP" height="35" width="45" src="https://img.icons8.com/?size=100&id=69485&format=png&color=000000"> -->
   <img align="center" alt="Krishna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ui5" height="30" width="40" src="https://openui5.org/5bdd288371ed8100415f04563acc8dfe/phenix_blue.svg">
   <img align="center" alt="Krishna-Next" height="40" width="50" color="#fff" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Next.js-900x0.png">
